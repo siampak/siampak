@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **I think I have.😅**
 
-
   <br>
   
 <h3 align="left"> Skills: Android</h3>
