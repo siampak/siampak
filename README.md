@@ -1,7 +1,7 @@
-![MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)
+![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 <h1 align="center">Hi 👋, I'm Abu Siyam</h1>
 <h3 align="center">A passionate Android Application Developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fb/a7/c7/fba7c713a78dc212c5f53aab264d2166.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siampak&label=Profile%20views&color=0e75b6&style=flat" alt="siampak" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **siampak42@gmail.com**
 
-- ⚡ Fun fact **Yes, I have.😅**
+- ⚡ Fun fact **I have.**
 
   <br>
   
