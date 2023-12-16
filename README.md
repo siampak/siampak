@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **siampak42@gmail.com**
 
-- ⚡ Fun fact **I think I have.😅**
+- ⚡ Fun fact **Yes, I have.😅**
 
   <br>
   
