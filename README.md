@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about **Mobile Application Development**
+- 💬 Ask me about **Android Application Development**
 
 - 📫 How to reach me **siampak42@gmail.com**
 
@@ -29,6 +29,7 @@
 - DI, Dagger2, Hilt
 - Animations, Lottie
 - 3rd Party Libraries (Retrofit, Glide, EasyPermissions, ...)
+- OOP, Git & Github
 
 <br>
 
