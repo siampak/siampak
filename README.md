@@ -28,7 +28,7 @@
 - Coroutines, Push Notification
 - DI, Dagger2, Hilt
 - Material Design, Animations, Lottie
-- - Architecture Components | LifeCycle, ViewModel, LiveData, DataBinding, Room, Navigation, Paging, WorkManager
+- Architecture Components | LifeCycle, ViewModel, LiveData, DataBinding, Room, Navigation, Paging, WorkManager
 - 3rd Party Libraries (Retrofit, Glide, EasyPermissions, ...)
 - Cross-Platform (KMP):
 - Kotlin Multiplatform Mobile (KMP),
