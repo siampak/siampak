@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siampak&label=Profile%20views&color=0e75b6&style=flat" alt="siampak" /> </p>
 
-- 🔭 I’m currently working on **Android App Development**
+- 🔭 I’m currently working on **Mobile App Development**
 
 - 👯 I’m looking to collaborate on **Projects**
 
 - 💬 Ask me about **Mobile Application Development**
 
-- 📫 How to reach me **siampak42@gmail.com**
+- 📫 How to reach me **abusiyam936@gmail.com**
 
 - ⚡ Fun fact **I have.**
 
@@ -22,21 +22,22 @@
 
 - Kotlin, Java
 - Android SDK
-- KMPCross-Platform (KMP):
-Kotlin Multiplatform Mobile (KMP),
-Compose Multiplatform,
-Ktor
-SQLDelight,
-Coil, Media Player
-Voyager, CocoaPods
-- Architecture Components | LifeCycle, ViewModel, LiveData, DataBinding, Room, Navigation, Paging, WorkManager
-- Firebase, Google Map API
-- Coroutines
+- Rest APIs
 - MVVM Pattern
+- Firebase, Google Map API
+- Coroutines, Push Notification
 - DI, Dagger2, Hilt
-- Animations, Lottie
+- Material Design, Animations, Lottie
+- - Architecture Components | LifeCycle, ViewModel, LiveData, DataBinding, Room, Navigation, Paging, WorkManager
 - 3rd Party Libraries (Retrofit, Glide, EasyPermissions, ...)
-- OOP, Git & Github
+- Cross-Platform (KMP):
+- Kotlin Multiplatform Mobile (KMP),
+Compose Multiplatform,
+Ktor,
+SQLDelight,
+Coil, Media Player,
+Voyager, CocoaPods, Xcode (basic)
+- Postman, OOP, Git & Github 
 
 <br>
 
