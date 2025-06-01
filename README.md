@@ -30,7 +30,8 @@
 - Material Design, Animations, Lottie
 - Architecture Components | LifeCycle, ViewModel, LiveData, DataBinding, Room, Navigation, Paging, WorkManager
 - 3rd Party Libraries (Retrofit, Glide, EasyPermissions, ...)
--- Cross-Platform (KMP) -- Kotlin Multiplatform Mobile (KMP), Compose Multiplatform,
+- -- Cross-Platform (KMP) --
+- Kotlin Multiplatform Mobile (KMP), Compose Multiplatform,
 Ktor,
 SQLDelight,
 Coil, Media Player,
