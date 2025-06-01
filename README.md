@@ -29,7 +29,6 @@
 - DI, Dagger2, Hilt
 - Material Design, Animations, Lottie
 - Architecture Components | LifeCycle, ViewModel, LiveData, DataBinding, Room, Navigation, Paging, WorkManager
-- Cross-Platform (KMP) -->
 - Kotlin Multiplatform Mobile (KMP), Compose Multiplatform,
 Ktor,
 SQLDelight,
