@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about **Android Application Development**
+- 💬 Ask me about **Mobile Application Development**
 
 - 📫 How to reach me **siampak42@gmail.com**
 
@@ -22,6 +22,13 @@
 
 - Kotlin, Java
 - Android SDK
+- KMPCross-Platform (KMP):
+Kotlin Multiplatform Mobile (KMP),
+Compose Multiplatform,
+Ktor
+SQLDelight,
+Coil, Media Player
+Voyager, CocoaPods
 - Architecture Components | LifeCycle, ViewModel, LiveData, DataBinding, Room, Navigation, Paging, WorkManager
 - Firebase, Google Map API
 - Coroutines
