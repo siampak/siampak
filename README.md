@@ -29,13 +29,13 @@
 - DI, Dagger2, Hilt
 - Material Design, Animations, Lottie
 - Architecture Components | LifeCycle, ViewModel, LiveData, DataBinding, Room, Navigation, Paging, WorkManager
-- 3rd Party Libraries (Retrofit, Glide, EasyPermissions, ...)
-- -- Cross-Platform (KMP) --
+- Cross-Platform (KMP) -->
 - Kotlin Multiplatform Mobile (KMP), Compose Multiplatform,
 Ktor,
 SQLDelight,
 Coil, Media Player,
 Voyager, CocoaPods, Xcode (basic)
+- 3rd Party Libraries (Retrofit, Glide, EasyPermissions, ...)
 - Postman, OOP, Git & Github 
 
 <br>
